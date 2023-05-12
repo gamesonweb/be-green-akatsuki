@@ -1,6 +1,4 @@
-# be-green-akatsuki
-be-green-akatsuki created by GitHub Classroom
-
+# HAVE A BREAK, SAVE THE PLANET
 # Jeu de course avec Babylon.js
 Bienvenue dans notre jeu de course créé avec Babylon.js ! Dans ce jeu, vous aurez l'opportunité de conduire une voiture qui roule sur une route sans fin. Votre objectif principal est d'éviter les obstacles qui apparaissent sur la route tout en augmentant votre vitesse. 
 
@@ -28,9 +26,9 @@ Vous n'avez pas besoin d'installer quoi que ce soit pour jouer à notre jeu. Il 
 
 Utilisez les touches suivantes pour jouer :
 
-    - Flèche gauche: Déplacer la voiture vers la gauche.
+    - Flèche de gauche: Déplacer la voiture vers la gauche.
     - Flèche du milieu: Déplacer la voiture au centre.
-    - Flèche droite: Déplacer la voiture vers la droite.
+    - Flèche de droite: Déplacer la voiture vers la droite.
 
 ### Objectif du jeu
 

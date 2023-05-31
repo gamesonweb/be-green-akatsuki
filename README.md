@@ -27,7 +27,7 @@ Vous n'avez pas besoin d'installer quoi que ce soit pour jouer à notre jeu. Il 
 Utilisez les touches suivantes pour jouer :
 
     - Flèche de gauche: Déplacer la voiture vers la gauche.
-    - Flèche du milieu: Déplacer la voiture au centre.
+    - Flèche du bas: Déplacer la voiture au centre.
     - Flèche de droite: Déplacer la voiture vers la droite.
 
 ### Objectif du jeu
